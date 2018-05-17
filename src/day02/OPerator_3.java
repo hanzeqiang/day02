@@ -19,6 +19,7 @@ public class OPerator_3 {
 		System.out.println(a<b);//t
 		System.out.println(a!=b);//t
 		System.out.println(a<=b);//f
+		System.out.println("helddlo");
 		System.out.println(a>=b);//f
 		
 	}
