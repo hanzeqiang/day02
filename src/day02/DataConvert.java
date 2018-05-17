@@ -9,7 +9,7 @@ public class DataConvert {
 		System.out.println(d);
 		byte b=10;
 		int j=b;//byte自动转换为int
-		System.out.println("转换后的数据为:"+j);
+		System.out.println("转换后的数据为::"+j);
 	}
 
 }
